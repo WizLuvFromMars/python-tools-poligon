@@ -1,5 +1,5 @@
-# AAAA.BBBB.CCCC mac to AA:AA:BB:BB:CC:CC
-#
+"""AAAA.BBBB.CCCC mac to AA:AA:BB:BB:CC:CC."""
+
 from netaddr import EUI, mac_unix_expanded
 
 # def main():
